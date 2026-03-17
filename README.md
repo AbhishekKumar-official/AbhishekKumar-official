@@ -3,7 +3,13 @@
 ## 🚀 About Me
 Frontend Developer with **5+ years of experience** building modern, scalable, and user-friendly web applications.
 
-I specialize in creating clean and efficient interfaces using **React**, **JavaScript**, and **TypeScript**, with a strong focus on performance, maintainability, and great user experience.
+I specialize in **React, JavaScript, and TypeScript**, focusing on performance, clean architecture, and intuitive UI/UX.
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/AbhishekKumar-official
+- LinkedIn: https://linkedin.com/in/takemetoabhishek
 
 ---
 
@@ -30,25 +36,19 @@ I specialize in creating clean and efficient interfaces using **React**, **JavaS
 ---
 
 ## ✨ What I Do
-- Build responsive and interactive web applications
-- Create reusable and maintainable React components
-- Develop clean UI systems with modern styling approaches
-- Work with APIs and full-stack integrations
-- Improve performance and user experience
+- Build responsive and scalable web applications
+- Create reusable React components
+- Design clean and maintainable UI systems
+- Integrate APIs and full-stack solutions
+- Optimize performance and user experience
 
 ---
 
-## 📚 Currently Focused On
+## 📚 Currently Exploring
 - Advanced React patterns
-- TypeScript best practices
+- TypeScript deep dive
 - Scalable frontend architecture
-- Modern UI systems and design consistency
-
----
-
-## 📫 Connect With Me
-- GitHub: [your-github-link](https://github.com/your-github-link)
-- LinkedIn: [your-linkedin-link](https://linkedin.com/in/your-linkedin-link)
+- Design systems & UI consistency
 
 ---
 
